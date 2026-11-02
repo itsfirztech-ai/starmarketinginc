@@ -1,0 +1,12 @@
+# Star Marketing launch checklist
+- [ ] Netlify project uses correct GitHub `main` branch
+- [ ] Base dir blank, build `npm run build`, publish `dist`
+- [ ] Latest production deploy says **Published** and site URL opens
+- [ ] Check all five pages on phone and desktop
+- [ ] Test a genuine `star-inquiry` submission in Netlify Forms
+- [ ] Configure a verified notification recipient email in Netlify Forms
+- [ ] Add Star Marketing Agency's real email and booking calendar (no limo Gmail)
+- [ ] Verify testimonials and case studies before adding
+- [ ] Set verified custom domain, check canonicals/sitemap
+- [ ] Enable analytics only with validated IDs and appropriate consent
+- [ ] Avoid legacy GitHub PR preview; deploy directly from main

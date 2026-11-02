@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# The production build replaces this file once VITE_SITE_URL is set.
